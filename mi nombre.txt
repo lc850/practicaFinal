@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Oscar Quiroz Zavala
+=======
+Oscar Quiroz Zavala crak
+>>>>>>> origin
